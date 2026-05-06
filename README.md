@@ -1,3 +1,4 @@
+<img width="470" height="352" alt="screen" src="https://github.com/user-attachments/assets/0ec13761-075b-452b-a3f5-5df70cb5c7ce" />
 <img width="1010" height="833" alt="screen" src="https://github.com/user-attachments/assets/a83db4f1-5548-4809-a8d6-abeff2585609" />
 # Nexa Power Flow Card (English)
 
