@@ -1,3 +1,4 @@
+<img width="1010" height="833" alt="screen" src="https://github.com/user-attachments/assets/a83db4f1-5548-4809-a8d6-abeff2585609" />
 # Nexa Power Flow Card (English)
 
 A modern, animated energy flow card for Home Assistant, specifically optimized for **Nexa 2000** systems. This card provides an intuitive overview of solar production, house consumption, grid interaction, and battery storage.
